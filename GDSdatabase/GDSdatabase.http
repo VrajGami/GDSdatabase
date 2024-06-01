@@ -1,0 +1,6 @@
+@GDSdatabase_HostAddress = http://localhost:5249
+
+GET {{GDSdatabase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
